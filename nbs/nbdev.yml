@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-init"
+  site-url: "https://avats-dev.github.io/nbdev-init"
+  description: "Init repo for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/avats-dev/nbdev-init"
